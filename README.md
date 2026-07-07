@@ -68,15 +68,6 @@ A collection of short-form video projects including:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sana-Arshad535&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-Arshad535&layout=compact&theme=default" alt="Top Languages" width="40%" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 **Email:** sanaarshad643@gmail.com
